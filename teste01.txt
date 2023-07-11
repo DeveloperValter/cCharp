@@ -14,3 +14,5 @@ nota 100
 nota 300
 nota 400
 nota 500
+nota 600
+nota 700
