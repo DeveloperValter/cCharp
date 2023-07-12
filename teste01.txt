@@ -15,11 +15,7 @@ nota 300
 nota 400
 nota 500
 nota 600
-<<<<<<< HEAD
 nota 700
 nota 800
 
 bola
-=======
-nota 700
->>>>>>> fb7ecd114943102eaec5123c11ff8f6c9076db71
