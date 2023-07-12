@@ -16,3 +16,6 @@ nota 400
 nota 500
 nota 600
 nota 700
+nota 800
+
+bola
